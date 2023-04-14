@@ -2,4 +2,4 @@ Curso de Logística;
 Curso de Programção de aplicativos;
 Curso de Desenvolvimento de software;
 Curso de Eletrônica;
-Curso de IoT.
+Curso de IoT;
